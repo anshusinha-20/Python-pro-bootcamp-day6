@@ -16,4 +16,7 @@ all challenges ranging from 'Alone' to 'Maze challenge'
 #         turn_left()
 #     elif (wall_in_front() and right_is_clear()):
 #         turn_right()
+#         move(
+#     elif (front_is_clear() and right_is_clear()):
+#         turn_right()
 #         move()
